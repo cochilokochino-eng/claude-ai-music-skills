@@ -1,0 +1,142 @@
+[
+  {
+    "numero": 1,
+    "tema": "El padre que trabajaba en el campo",
+    "titulo": "Antes del Sol: El Corrido del Padre del Campo",
+    "concepto": "Un homenaje al padre campesino que se levantaba cuando aún dormía el rancho, sudando la vida para que nunca faltara el pan. Su sacrificio sembró futuro en cada surco y cariño en cada regreso a casa.",
+    "gancho": "Se levantaba antes del sol para darle todo a su familia"
+  },
+  {
+    "numero": 2,
+    "tema": "El papá que cruzó la frontera por la familia",
+    "titulo": "Cruzar el Norte por Ellos: El Corrido del Migrante",
+    "concepto": "La historia de un padre que dejó su tierra y cruzó la frontera con el corazón apretado, trabajando lejos para mandar dinero y sostener a los suyos. Cada envío era amor convertido en sacrificio.",
+    "gancho": "Se fue lejos, pero nunca soltó a su familia"
+  },
+  {
+    "numero": 3,
+    "tema": "El abuelo que crió a sus nietos",
+    "titulo": "Abuelo y Padre: El Corrido del Hombre que Dio Hogar",
+    "concepto": "Un tributo al abuelo que tomó el lugar de padre con orgullo, criando a sus nietos con firmeza, paciencia y ternura. Su casa se volvió refugio y su ejemplo, una herencia eterna.",
+    "gancho": "No fue solo abuelo, fue el padre que los sostuvo"
+  },
+  {
+    "numero": 4,
+    "tema": "El padre ausente que regresó arrepentido",
+    "titulo": "Volver con el Alma: Perdón para el Padre Arrepentido",
+    "concepto": "Un corrido de reconciliación entre un hijo y un padre que volvió con remordimiento buscando una segunda oportunidad. Entre heridas viejas y lágrimas sinceras, nace el perdón.",
+    "gancho": "Regresó tarde, pero con el corazón en la mano"
+  },
+  {
+    "numero": 5,
+    "tema": "El papá que enseñó a montar a caballo",
+    "titulo": "Aprendí del Rancho: El Corrido del Padre a Caballo",
+    "concepto": "Recuerdos de infancia en el rancho, donde un padre enseñó a su hijo a montar, respetar la tierra y amar las tradiciones. Cada galope guarda una lección que nunca se olvida.",
+    "gancho": "Me enseñó a montar y a no perder mis raíces"
+  },
+  {
+    "numero": 6,
+    "tema": "El padre obrero de la fábrica",
+    "titulo": "Manos de Hierro, Corazón de Oro: Corrido del Obrero",
+    "concepto": "La vida de un padre obrero que dejaba fuerza y sudor en la fábrica para sacar adelante a su familia. Sus manos cansadas cuentan la historia de un amor que jamás se rindió.",
+    "gancho": "Sus manos estaban rotas, pero su amor nunca falló"
+  },
+  {
+    "numero": 7,
+    "tema": "El papá que ya partió pero sigue presente",
+    "titulo": "Aunque No Estés, Aquí Sigues: Corrido para Papá",
+    "concepto": "Un homenaje póstumo al padre que partió, pero sigue vivo en los recuerdos, consejos y enseñanzas que dejó. Su ausencia duele, pero su presencia se siente en cada paso.",
+    "gancho": "Ya no está, pero sigue guiando mi camino"
+  },
+  {
+    "numero": 8,
+    "tema": "El padre que nunca faltó a un partido",
+    "titulo": "En Cada Juego Estuviste: Corrido del Padre Presente",
+    "concepto": "La historia de un papá que nunca faltó a un partido, una presentación o un logro de sus hijos. Su apoyo fue la porra más fuerte y el orgullo más grande de la casa.",
+    "gancho": "Siempre estaba ahí, en cada gol y cada triunfo"
+  },
+  {
+    "numero": 9,
+    "tema": "El papá camionero de las carreteras",
+    "titulo": "Kilómetros de Amor: Corrido del Papá Camionero",
+    "concepto": "Un corrido dedicado al trailero que vive entre carreteras, motores y noches largas, extrañando su hogar en cada viaje. Aunque lejos, su esfuerzo mantiene unida a la familia.",
+    "gancho": "Cada kilómetro lo acercaba más a los suyos"
+  },
+  {
+    "numero": 10,
+    "tema": "El padre que vendía en el mercado",
+    "titulo": "Entre Puestos y Sueños: Corrido del Padre del Mercado",
+    "concepto": "El retrato de un comerciante humilde que amanecía en el mercado para que nunca faltara nada en casa. Entre gritos, peso y cansancio, construyó el futuro de su familia.",
+    "gancho": "Vendía con humildad para que a su casa no le faltara nada"
+  },
+  {
+    "numero": 11,
+    "tema": "El papá que tocaba la guitarra",
+    "titulo": "La Guitarra de mi Viejo: Corrido de Herencia y Canto",
+    "concepto": "Una historia donde la música pasa de padre a hijo como un legado de amor y orgullo. Cada acorde del viejo guarda recuerdos, consejos y noches llenas de sentimiento.",
+    "gancho": "Su guitarra me dejó más que música: me dejó historia"
+  },
+  {
+    "numero": 12,
+    "tema": "El padre que perdonó todo a su hijo",
+    "titulo": "Perdón de Padre: Corrido del Amor que Nunca Juzga",
+    "concepto": "Un corrido sobre el amor incondicional de un padre que siempre abrió los brazos, aunque su hijo fallara. Su perdón fue más grande que cualquier herida y más fuerte que el rencor.",
+    "gancho": "Me perdonó todo, porque un padre ama sin medida"
+  },
+  {
+    "numero": 13,
+    "tema": "El papá que construyó la casa con sus manos",
+    "titulo": "Ladrillo a Ladrillo: El Corrido del Padre Constructor",
+    "concepto": "La historia de un hombre que levantó su hogar con sudor, esfuerzo y manos marcadas por el trabajo. Cada pared cuenta sacrificio, cada cuarto guarda el amor de su familia.",
+    "gancho": "Construyó una casa, pero también levantó un hogar"
+  },
+  {
+    "numero": 14,
+    "tema": "El padre soltero que hizo de papá y mamá",
+    "titulo": "Solo, Pero Nunca Suficiente: Corrido del Padre Valiente",
+    "concepto": "Un homenaje al hombre que crió solo a sus hijos con fuerza y ternura, haciendo el trabajo de dos sin quejarse. Su amor fue doble, su entrega infinita y su lucha admirable.",
+    "gancho": "Fue papá y mamá sin soltar nunca la mano"
+  },
+  {
+    "numero": 15,
+    "tema": "El papá que regaló su primer caballo",
+    "titulo": "Mi Primer Caballo: Corrido del Padre Generoso",
+    "concepto": "Un corrido de la nobleza de un padre ranchero que entregó a su hijo su primer caballo como señal de confianza y amor. Ese regalo fue más que un animal: fue un paso hacia la vida.",
+    "gancho": "Me dio mi primer caballo y también mi primer orgullo"
+  },
+  {
+    "numero": 16,
+    "tema": "El padre que rezaba por sus hijos cada noche",
+    "titulo": "Oraciones de Mi Viejo: Corrido de Fe y Familia",
+    "concepto": "La fe de un padre que cada noche encomendaba a sus hijos a Dios antes de dormir. Su oración fue protección, guía y el sostén invisible de toda la familia.",
+    "gancho": "Antes de dormir, siempre nos cubría con su oración"
+  },
+  {
+    "numero": 17,
+    "tema": "El papá que se fue al norte y volvió triunfante",
+    "titulo": "Volvió del Norte: Corrido del Sueño Cumplido",
+    "concepto": "La historia de un padre que salió al norte persiguiendo una vida mejor y regresó triunfante a enseñar que sí se puede. Su regreso fue la recompensa de años de lucha y nostalgia.",
+    "gancho": "Se fue a buscar suerte y volvió con la frente en alto"
+  },
+  {
+    "numero": 18,
+    "tema": "El padre que enseñó el valor del trabajo",
+    "titulo": "Me Enseñaste a Trabajar: Corrido del Padre de Ley",
+    "concepto": "Un homenaje a las lecciones de un padre que enseñó con el ejemplo que el trabajo dignifica y forma hombres de bien. Sus palabras quedaron grabadas como guía para toda la vida.",
+    "gancho": "De ti aprendí que el trabajo vale más que mil palabras"
+  },
+  {
+    "numero": 19,
+    "tema": "El papá que curtió a su hijo en la adversidad",
+    "titulo": "Duro por Amor: Corrido del Padre que Forjó a su Hijo",
+    "concepto": "La historia de un padre estricto cuyo amor se entendió con los años, cuando la dureza de antes se volvió fortaleza. Sus enseñanzas lo curtieron para resistir la vida con honor.",
+    "gancho": "Era duro, pero me estaba preparando para el mundo"
+  },
+  {
+    "numero": 20,
+    "tema": "El padre que brindaba con sus compadres",
+    "titulo": "Brindis de Mi Viejo: Corrido de Fiesta y Orgullo",
+    "concepto": "Un corrido de celebraciones, mariachi y amistad, donde el padre brinda con sus compadres mientras presume con orgullo a su familia. Entre risas y canciones, su alegría también era amor.",
+    "gancho": "Con sus compadres brindaba y con su familia celebraba"
+  }
+]

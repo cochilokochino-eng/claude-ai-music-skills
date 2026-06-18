@@ -24,3 +24,7 @@ Thumbs.db
 # Editores
 .idea/
 .vscode/
+
+
+# Logs de ejecucion
+*.log
